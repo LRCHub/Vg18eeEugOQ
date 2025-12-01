@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "bellyache",
+  "base_artist": "Billie Eilish",
+  "createdAt": "2025-12-01T02:49:33.246800Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bellyache",
+      "artist": "Echobelly",
+      "has_synced": true,
+      "path": "select/01_Bellyache_Echobelly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "bellyache",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/02_bellyache_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "bellyache (Marian Hill remix)",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/03_bellyache_(Marian_Hill_remix)_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bellyache",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/04_Bellyache_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bellyache (Marian Hill Remix)",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/05_Bellyache_(Marian_Hill_Remix)_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "bellyache",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/06_bellyache_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "bellyache",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/07_bellyache_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fig With a Bellyache",
+      "artist": "mewithoutYou",
+      "has_synced": true,
+      "path": "select/08_Fig_With_a_Bellyache_mewithoutYou.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "bellyache (Marian Hill remix)",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/09_bellyache_(Marian_Hill_remix)_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bellyache",
+      "artist": "Spanish Love Songs",
+      "has_synced": true,
+      "path": "select/10_Bellyache_Spanish_Love_Songs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "bellyache (Marian Hill remix)",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/11_bellyache_(Marian_Hill_remix)_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "bellyache",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/12_bellyache_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bellyache",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/13_Bellyache_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bellyache (Marian Hill Remix)",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/14_Bellyache_(Marian_Hill_Remix)_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "bellyache",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/15_bellyache_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bellyache",
+      "artist": "Cocknbullkid",
+      "has_synced": false,
+      "path": "select/16_Bellyache_Cocknbullkid.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bellyache",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/17_Bellyache_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bellyache (Marian Hill Remix)",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/18_Bellyache_(Marian_Hill_Remix)_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "bellyache",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/19_bellyache_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "bellyache",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/20_bellyache_Billie_Eilish.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "bellyache",
+      "artist": "Billie Eilish",
+      "has_synced": false,
+      "path": "select/pl_bellyache_Billie_Eilish.txt"
+    }
+  ]
+}
